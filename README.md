@@ -8,7 +8,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 ### Categories
 
 - [Software Development](https://github.com/FJuette/great-blogs#general-software-development)
-- [Coding with C#](https://github.com/FJuette/great-blogs#coding-with-c#)
+- [Coding with C#](https://github.com/FJuette/great-blogs#coding-with-c)
 
 #### General Software Development
 
