@@ -17,3 +17,4 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 * [A better way to handle authorization in ASP.NET Core](https://www.thereformedprogrammer.net/a-better-way-to-handle-authorization-in-asp-net-core/) by **John P. Smith**
 * [Preparing Entity Framework Core for Static Analysis and Nullable Reference Types](https://www.infoq.com/articles/EF-Core-Nullable-Reference-Types/) by **Jonathan Allen**
+* [Programming a Microservice with .Net Core 3.1](https://www.programmingwithwolfgang.com/programming-microservices-net-core-3-1/) by **Wolfgang Ofner**
