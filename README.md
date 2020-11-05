@@ -12,8 +12,11 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 #### General Software Development
 
+#### Functional Programming
 
-#### Coding with C#
+* [The "Understanding F# types" series](https://fsharpforfunandprofit.com/series/understanding-fsharp-types.html) by **Scott Wlaschin**
+
+#### C#
 
 * [A better way to handle authorization in ASP.NET Core](https://www.thereformedprogrammer.net/a-better-way-to-handle-authorization-in-asp-net-core/) by **John P. Smith**
 * [Preparing Entity Framework Core for Static Analysis and Nullable Reference Types](https://www.infoq.com/articles/EF-Core-Nullable-Reference-Types/) by **Jonathan Allen**
