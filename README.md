@@ -12,6 +12,10 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 #### General Software Development
 
+#### Software Architecture
+
+* [MICROSERVICES .NET CORE WITH EXAMPLE](https://medium.com/@bingeek/microservices-net-core-with-example-c4330bca148a) by **Bingeek**
+
 #### Functional Programming
 
 * [The "Understanding F# types" series](https://fsharpforfunandprofit.com/series/understanding-fsharp-types.html) by **Scott Wlaschin**
