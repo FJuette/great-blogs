@@ -15,6 +15,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 #### Software Architecture
 
 * [MICROSERVICES .NET CORE WITH EXAMPLE](https://medium.com/@bingeek/microservices-net-core-with-example-c4330bca148a) by **Bingeek**
+* [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
 #### Functional Programming
 
@@ -27,5 +28,24 @@ My own list of nice blogs and articles I find worth reading from time to time.
 * [Programming a Microservice with .Net Core 3.1](https://www.programmingwithwolfgang.com/programming-microservices-net-core-3-1/) by **Wolfgang Ofner**
 
 
+#### Python
+
+* [Python behind the scenes series](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
+
 #### Git
+
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+#### Crypto
+
+* [Bitcoin From Scratch](https://monokh.com/posts/bitcoin-from-scratch-part-1)
+
+#### Generic
+
+* [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
+* [DECISION TABLE PATTERNS](https://www.hillelwayne.com/post/decision-table-patterns/)
+* [A Brief Introduction to the Basics of Game Theory](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1968579)
+
+#### Personal Improvment
+
+* [Beginner's Guide to Arguing Constructively](http://liamrosen.com/arguments.html)
