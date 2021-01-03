@@ -40,6 +40,10 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 * [Bitcoin From Scratch](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 
+#### Security/Hacking
+
+* [GitHub for Bug Bounty Hunters](https://gist.github.com/EdOverflow/922549f610b258f459b219a32f92d10b)
+
 #### Generic
 
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
