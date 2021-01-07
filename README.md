@@ -32,6 +32,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 #### Python
 
 * [Python behind the scenes series](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
+* [Virtual Environments Demystified](https://meribold.org/python/2018/02/13/virtual-environments-9487/)
 
 #### Git
 
