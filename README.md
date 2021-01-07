@@ -16,6 +16,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 * [MICROSERVICES .NET CORE WITH EXAMPLE](https://medium.com/@bingeek/microservices-net-core-with-example-c4330bca148a) by **Bingeek**
 * [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
+* [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/) by **Sudhir Jonathan**
 
 #### Functional Programming
 
