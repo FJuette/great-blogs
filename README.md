@@ -44,6 +44,10 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 * [GitHub for Bug Bounty Hunters](https://gist.github.com/EdOverflow/922549f610b258f459b219a32f92d10b)
 
+#### CLI
+
+* [Parsing JSON at the CLI: A Practical Introduction to `jq`](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/)
+
 #### Generic
 
 * [Monitoring demystified: A guide for logging, tracing, metrics](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
