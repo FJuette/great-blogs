@@ -18,6 +18,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 * [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 * [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/) by **Sudhir Jonathan**
 * [Event Sourcing - Capture all changes to an application state as a sequence of events](https://martinfowler.com/eaaDev/EventSourcing.html) by **Martin Fowler**
+* [What do you put in your Event Store? - Saving the right kind of byte[]](https://tomcools.be/post/dec-2018-event-format-eventstore/) by **Tom Cools**
 
 #### Functional Programming
 
