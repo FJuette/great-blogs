@@ -17,8 +17,8 @@ My own list of nice blogs and articles I find worth reading from time to time.
 * [MICROSERVICES .NET CORE WITH EXAMPLE](https://medium.com/@bingeek/microservices-net-core-with-example-c4330bca148a) by **Bingeek**
 * [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 * [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/) by **Sudhir Jonathan**
-* [Event Sourcing - Capture all changes to an application state as a sequence of events](https://martinfowler.com/eaaDev/EventSourcing.html) by **Martin Fowler**
-* [What do you put in your Event Store? - Saving the right kind of byte[]](https://tomcools.be/post/dec-2018-event-format-eventstore/) by **Tom Cools**
+* [Event Sourcing - Capture all changes to an application state as a sequence of events](https://martinfowler.com/eaaDev/EventSourcing.html) by **Martin Fowler** &#10003;
+* [What do you put in your Event Store? - Saving the right kind of byte[]](https://tomcools.be/post/dec-2018-event-format-eventstore/) by **Tom Cools** &#10003;
 
 #### Functional Programming
 
