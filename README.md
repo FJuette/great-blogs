@@ -5,10 +5,9 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 (In no particular order)
 
-### Categories
+#### Process Automation
 
-- [Software Development](https://github.com/FJuette/great-blogs#general-software-development)
-- [Coding with C#](https://github.com/FJuette/great-blogs#coding-with-c)
+* [Understanding the process automation landscape](https://blog.bernd-ruecker.com/understanding-the-process-automation-landscape-9406fe019d93) by **Bernd Rücker**
 
 #### General Software Development
 
