@@ -7,7 +7,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 #### Process Automation
 
-* [Understanding the process automation landscape](https://blog.bernd-ruecker.com/understanding-the-process-automation-landscape-9406fe019d93) by **Bernd Rücker**
+* [Understanding the process automation landscape](https://blog.bernd-ruecker.com/understanding-the-process-automation-landscape-9406fe019d93) by **Bernd Rücker** &#10003;
 
 #### General Software Development
 
