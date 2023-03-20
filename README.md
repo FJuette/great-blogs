@@ -66,3 +66,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 #### Paper
 * [Life beyond Distributed Transactions: an Apostate’s Opinion](https://www.ics.uci.edu/~cs223/papers/cidr07p15.pdf) by **Pat Helland**
+
+## Tutorials
+
+* [redux-tutorial](https://github.com/happypoulp/redux-tutorial) by **happypoulp**
