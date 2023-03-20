@@ -69,4 +69,4 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 ## Tutorials
 
-* [redux-tutorial](https://github.com/happypoulp/redux-tutorial) by **happypoulp**
+* [redux-tutorial](https://github.com/happypoulp/redux-tutorial) by **happypoulp** &#10003;
