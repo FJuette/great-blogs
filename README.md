@@ -40,7 +40,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 #### JavaScript
 
-* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) &#10003;
 
 #### Git
 
