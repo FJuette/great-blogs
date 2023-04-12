@@ -38,6 +38,10 @@ My own list of nice blogs and articles I find worth reading from time to time.
 * [Python behind the scenes series](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
 * [Virtual Environments Demystified](https://meribold.org/python/2018/02/13/virtual-environments-9487/)
 
+#### JavaScript
+
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+
 #### Git
 
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
