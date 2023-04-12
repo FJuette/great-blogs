@@ -23,7 +23,7 @@ My own list of nice blogs and articles I find worth reading from time to time.
 
 * [The "Understanding F# types" series](https://fsharpforfunandprofit.com/series/understanding-fsharp-types.html) by **Scott Wlaschin**
 * [Functional Python](https://github.com/sfermigier/awesome-functional-python)
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) &#10003;
 
 #### C#
 
